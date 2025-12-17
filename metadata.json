@@ -1,0 +1,5 @@
+{
+  "name": "Smart Color Palette Generator (SCPG)",
+  "description": "An intelligent color palette generator that creates unique and appealing color schemes based on user-provided moods or keywords, powered by Gemini.",
+  "requestFramePermissions": []
+}
